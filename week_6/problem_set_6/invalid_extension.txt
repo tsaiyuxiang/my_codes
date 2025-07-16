@@ -1,0 +1,5 @@
+# einstein.py 2025/06/30
+mass = int(input("inpt a mass in kg "))
+
+energy = mass * pow(300000000,2)
+print(f"relase energy {energy}")
